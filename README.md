@@ -8,7 +8,9 @@ My Project.
 Project Description.
 
 ### Files used
-chicago.csv, new_york_city.csv, washington.csv
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 Thanks To Udacity.
