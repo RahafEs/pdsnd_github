@@ -8,7 +8,7 @@ My Project.
 Project Description.
 
 ### Files used
-chicago.csv
+chicagocity.csv
 new_york_city.csv
 washington.csv
 
